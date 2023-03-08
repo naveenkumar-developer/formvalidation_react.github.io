@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/formvalidation_react.github.io/static/css/main.1a1ef49b.css",
+    "main.js": "/formvalidation_react.github.io/static/js/main.95b34cd4.js",
+    "static/js/787.b18e0803.chunk.js": "/formvalidation_react.github.io/static/js/787.b18e0803.chunk.js",
+    "index.html": "/formvalidation_react.github.io/index.html",
+    "main.1a1ef49b.css.map": "/formvalidation_react.github.io/static/css/main.1a1ef49b.css.map",
+    "main.95b34cd4.js.map": "/formvalidation_react.github.io/static/js/main.95b34cd4.js.map",
+    "787.b18e0803.chunk.js.map": "/formvalidation_react.github.io/static/js/787.b18e0803.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a1ef49b.css",
+    "static/js/main.95b34cd4.js"
+  ]
+}
